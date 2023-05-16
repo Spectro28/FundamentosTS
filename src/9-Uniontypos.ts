@@ -1,7 +1,7 @@
 // UNIO DE TIPO DE DATOS
 let userId: number | string;
 
-userId = "Diego";
+userId = "Jose";
 console.log(userId);
 userId = 500;
 console.log(userId);
@@ -14,6 +14,6 @@ console.log(userId);
       console.log(`Su ID es: ${id}`);
     }
   };
-  hello("Perro")
+  hello("JOSE")
   hello(300)
 })();

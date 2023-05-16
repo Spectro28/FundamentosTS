@@ -8,3 +8,4 @@ if(numero1 = numero2){
 }else{
   console.log("No son iguales");
 }
+
